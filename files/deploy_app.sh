@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Welcome to ${PREFIX}'s app. Updating the text to reflect the lab. Another Change. Why you no stage. 
+  Welcome to ${PREFIX}'s app. Updating the text to reflect the lab. Another Change. Why you no stage.  ANother attempt 
   <!-- END -->
   
   </div>
